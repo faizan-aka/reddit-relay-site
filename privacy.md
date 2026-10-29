@@ -13,7 +13,7 @@ happens to the data. -->
 **Who.** u/CipherFaze (the developer). Contact: modmail to r/deal_feed_relay_dev.
 
 **What the app reads.** Public posts and comments in the subreddits listed in the [Terms](terms), and, while the
-developer tests the app, the posts and comments of r/YOUR_RELAY_SUB, the developer's own private subreddit the app is
+developer tests the app, the posts and comments of r/deal_feed_relay_dev, the developer's own private subreddit the app is
 installed in. For a crosspost without an image of its own, it also reads the original post, wherever it was posted (a
 user's profile too), to take its first image link. Nothing private: no messages, no votes, nothing behind a login.
 
