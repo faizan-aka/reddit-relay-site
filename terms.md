@@ -14,7 +14,7 @@ Last updated 28 October 2026.
    in Reddit's App Directory.
 2. **What it reads.** On a schedule it reads public posts and comments of r/DesiFragranceAddicts,
    r/IndiaFragMarketplace and r/PerfumeIndia and, while the developer tests it, the posts and comments of
-   r/YOUR_RELAY_SUB, their own private subreddit. It reads r/SneakerDeals_India, r/SneakersOfferIndia,
+   r/deal_feed_relay_dev, their own private subreddit. It reads r/SneakerDeals_India, r/SneakersOfferIndia,
    r/SneakerheadsIndia, r/SneakersIndia and r/protein_deals only once the developer's sneaker and protein notifiers are
    switched on. The moderators of all eight of these subreddits agreed to this use. For a crosspost without an
    image of its own it also reads the original post, wherever it was posted, to take its first image link. It forwards
