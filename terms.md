@@ -9,8 +9,8 @@ Last updated 28 October 2026.
 <!-- Before publishing: replace YOUR_USERNAME and YOUR_RELAY_SUB (and the app name, if you changed it). -->
 
 1. **What it is.** deal-feed-relay ("the app") is a private, non-commercial app on Reddit's Developer Platform, made
-   and used by one person, u/YOUR_USERNAME ("the developer"), for their own deal notifications. It is installed only in
-   r/YOUR_RELAY_SUB, a private subreddit the developer moderates. It is not offered to anyone else and is not listed
+   and used by one person, u/CipherFaze ("the developer"), for their own deal notifications. It is installed only in
+   r/deal_feed_relay_dev, a private subreddit the developer moderates. It is not offered to anyone else and is not listed
    in Reddit's App Directory.
 2. **What it reads.** On a schedule it reads public posts and comments of r/DesiFragranceAddicts,
    r/IndiaFragMarketplace and r/PerfumeIndia and, while the developer tests it, the posts and comments of
@@ -26,6 +26,6 @@ Last updated 28 October 2026.
 5. **Deletions.** Content that is deleted or removed on Reddit is removed from everything the app sent, as the
    Privacy Policy describes.
 6. **No warranty.** The app comes with no warranty and may stop at any time.
-7. **Contact.** Modmail to r/YOUR_RELAY_SUB, or a message to u/YOUR_USERNAME.
+7. **Contact.** Modmail to r/deal_feed_relay_dev, or a message to u/CipherFaze.
 
 Privacy Policy: [privacy](privacy)
