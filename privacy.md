@@ -4,10 +4,10 @@ title: deal-feed-relay — Privacy Policy
 
 # deal-feed-relay — Privacy Policy
 
-Last updated 28 October 2026.
+Last updated 29 October 2026.
 
-<!-- Before publishing: replace YOUR_USERNAME and YOUR_RELAY_SUB (and the app name, if you changed it). Keep this page
-in step with the app and the notifiers: the Devvit Rules require it to describe completely and accurately what
+<!-- The public copy of this page is in the reddit-relay-site repo (GitHub Pages): change both together. Keep this
+page in step with the app and the notifiers: the Devvit Rules require it to describe completely and accurately what
 happens to the data. -->
 
 **Who.** u/CipherFaze (the developer). Contact: modmail to r/deal_feed_relay_dev.
